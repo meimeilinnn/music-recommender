@@ -1,0 +1,15 @@
+# requirements.txt
+# 音樂推薦系統所需套件
+
+# 資料處理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# 機器學習
+scikit-learn>=1.3.0
+
+# CLI 工具
+click>=8.1.0
+
+# Kaggle API
+kaggle>=1.6.0
